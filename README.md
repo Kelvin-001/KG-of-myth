@@ -13,7 +13,7 @@ jupyter-notebook文件夹中包含部分数据处理过程
 
 #### 后期改进：
 
-    进行了多模型五折交叉验证，（ROBERT + CRF）* 5 + （BERT + BILSTM + CRF）* 5，使用多模型实体投票进行模型融合。
+  进行了多模型五折交叉验证，（ROBERT + CRF）* 5 + （BERT + BILSTM + CRF）* 5，使用多模型实体投票进行模型融合。
 
 
 
